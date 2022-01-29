@@ -1,4 +1,45 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
 
+
+h1{color:grey;font-family:verdana;
+   text-align: left;
+   
+}
+
+
+.maindiv {
+    background-color:white;
+    color:black;
+    width:35%;
+    height: auto;
+    padding:20px;
+    border-radius:25px;
+    margin: auto;
+    text-align: left;
+    box-shadow: 0ch 2px 8px 2px rgb(9, 170, 30);
+
+    
+}
+
+.extra{
+    margin-left: 10%;
+}
+#principal{
+    margin-left: 80px;
+}
+
+#rate{
+margin-left: 35px;}
+
+#years{
+    margin-left: 40px;}
+
+footer{
+    text-align: left;
+}
+
+#mark
+{
+    background-color: #9be261;
+}
 
